@@ -6,8 +6,8 @@
 
 ![House](header.png)
 
-Kaggle competition in order to predict house's sale price with informations. 
-I manage to get a score of 0.13133 with gradient Boosting i think I can improve this score by working more on the data.
+Kaggle competition in order to predict house's sale price with informations. \\
+I manage to get a score of 0.13133 with gradient Boosting algorithm that put us in the top 100 of the competition.
 
 
 
